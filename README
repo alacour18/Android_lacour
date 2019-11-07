@@ -1,0 +1,13 @@
+Phone : Pixel 2 / Oreo (Android 8.1x86)
+
+Les boutons : GRAY, HSV, ORIGINAL fonctionnent.
+Le bouton GRAY BIS correspond à la fonction qui conserve une seule couleur et laisse le reste en gris (ici le bleu).
+Le bouton CONTRAST ne fonctionne pas.
+
+Temps de traitement des fonctions pour l'image "paysage" 1400 x 1050 pixels :
+- toGray : 6 secondes
+- colorize : 13 secondes
+
+Temps de traitement des fonctions pour l'image "chat" 500 x 500 pixels :
+- toGray : 2 secondes
+- colorize : 3 secondes
